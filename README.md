@@ -7,7 +7,7 @@ Jupyter Notebook tutorials for the Technion's CS 236756 course "Introduction to 
     + [Running Locally](#running-locally)
   * [Agenda](#agenda)
   * [Installation Instructions](#installation-instructions)
-    + [Libraries to Install](#libraries-to-install
+    + [Libraries to Install](#libraries-to-install)
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
