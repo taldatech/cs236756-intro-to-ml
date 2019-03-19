@@ -1,11 +1,19 @@
 # cs236756-intro-to-ml
 Jupyter Notebook tutorials for the Technion's CS 236756 course "Introduction to Machine Learning"
 
+- [cs236756-intro-to-ml](#cs236756-intro-to-ml)
+  * [Running The Notebooks](#running-the-notebooks)
+    + [Running Online](#running-online)
+    + [Running Locally](#running-locally)
+  * [Agenda](#agenda)
+  * [Installation Instructions](#installation-instructions)
+    + [Libraries to Install](#libraries-to-install
+
 ## Running The Notebooks
-You can the tutorials online or download and run locally.
+You can view the tutorials online or download and run locally.
 
 ### Running Online
-Press on the "Binder" button below:
+Press on the "launch binder" button below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/cs236756-intro-to-ml/master)
 
