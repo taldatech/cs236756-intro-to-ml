@@ -17,6 +17,8 @@ Press on the "launch binder" button below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/cs236756-intro-to-ml/master)
 
+Note: creating the Binder instance takes about ~15 minutes, so be patient
+
 ### Running Locally
 Press "Download ZIP" under the green button `Clone or download` or use `git` to clone the repository using the 
 following command: `git clone https://github.com/taldatech/cs236756-intro-to-ml.git` (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
