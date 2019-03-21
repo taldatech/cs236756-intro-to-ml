@@ -1,0 +1,12 @@
+name: ml-course
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python
+  - numpy
+  - scikit-learn
+  - scipy
+  - pip:
+    - pandas
+    - matplotlib
