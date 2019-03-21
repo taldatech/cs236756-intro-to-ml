@@ -47,6 +47,7 @@ In Windows open `Anaconda Prompt` from the start menu, in Mac/Linux open the ter
 |`numpy`|  `conda install -c conda-forge numpy`|
 |`matplotlib`|  `conda install -c conda-forge matplotlib`|
 |`pandas`|  `conda install -c conda-forge pandas`|
+|`scipy`| `conda install -c anaconda scipy `|
 |`scikit-learn`|  `conda install -c conda-forge scikit-learn`|
 
 5. To open the notbooks, run `jupyter notebook` in the terminal (or `Anaconda Prompt` in Windows) while the `ml_course` environment is activated.
