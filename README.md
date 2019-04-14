@@ -35,6 +35,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`cs236756_tutorial_02_statistics.ipynb`|  Statistics definitions, hypothesis testing steps, z-statistic, Central Limit Theorem (CLT), Area Under the Curve (AUC), error types, confusion matrix|
 |`cs236756_tutorial_03_linear_algebra.ipynb`|  Linear Algebra basics (vectors, inner/outer product spaces, norms, linear dependency, matrix operations, matrix rank, range and nullspace), least-squares solution, eigenvalues and eigenvectors, Singuar Value Decomposition (SVD)|
 |`cs236756_tutorial_04_pca_feature_selection.ipynb`|  Dimensionality Reduction, Outliers, PCA, SVD, Breast Cancer dataset, Feature Selection, Filter methods, Wrapper methods, RFE (scikit-learn)|
+|`cs236756_tutorial_05_evaluation_validation.ipynb`|  Classifier Evaluation and Validation, metrics, accuracy, precision, recall, FN/TP rate, Confusion Matrix, F1 score, K-Fold Cross-Validation, train-validation-test split, holdout method, stratification, ROC curve|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
