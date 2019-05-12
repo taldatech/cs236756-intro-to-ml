@@ -37,6 +37,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`cs236756_tutorial_04_pca_feature_selection.ipynb`|  Dimensionality Reduction, Outliers, PCA, SVD, Breast Cancer dataset, Feature Selection, Filter methods, Wrapper methods, RFE (scikit-learn)|
 |`cs236756_tutorial_05_evaluation_validation.ipynb`|  Classifier Evaluation and Validation, metrics, accuracy, precision, recall, FN/TP rate, Confusion Matrix, F1 score, K-Fold Cross-Validation, train-validation-test split, holdout method, stratification, ROC curve|
 |`cs236756_tutorial_06_optimization.ipynb`|  Optimization in ML, Gradient Descent, Batch Gradient Descent, Mini-Batch (MB) Gradient Descent, Stochastic Gradient Descent (SGD), Convexity, Uni/Multi-modal problems, Lagrangian and Largrange Multipliers, Constrained Optimization|
+|`cs236756_tutorial_07_linear_regression.ipynb`|  Classification vs. Regression, NLL (Negative Log-Likelihood), MLE connection to MSE, Residual Analysis, Basis Functions Expansion, Feature Extraction, Linear and Polynomial Regression, Bias-Variance Tradeoff, Irreducible Error, Regularization (L1 + L2), Ridge and LASSO Regression|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
