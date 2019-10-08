@@ -13,6 +13,18 @@ Jupyter Notebook tutorials for the Technion's CS 236756 course "Introduction to 
 You can view the tutorials online or download and run locally.
 
 ### Running Online
+
+|Service      | Usage |
+|-------------|---------|
+|Jupyter Nbviewer| Render and view the notebooks (can not edit) |
+|Binder| Render, view and edit the notebooks (limited time) |
+|Google Colab| Render, view, edit and save the notebooks to Google Drive (limited time) |
+
+
+Jupyter Nbviewer:
+[![nbviewer](https://jupyter.org/assets/main-logo.svg](https://nbviewer.jupyter.org/github/taldatech/cs236756-intro-to-ml/tree/master/)
+
+
 Press on the "Open in Colab" button below to use Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taldatech/cs236756-intro-to-ml)
@@ -21,7 +33,7 @@ Or press on the "launch binder" button below to launch in Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/cs236756-intro-to-ml/master)
 
-Note: creating the Binder instance takes about ~15 minutes, so be patient
+Note: creating the Binder instance takes about ~5-10 minutes, so be patient
 
 ### Running Locally
 Press "Download ZIP" under the green button `Clone or download` or use `git` to clone the repository using the 
