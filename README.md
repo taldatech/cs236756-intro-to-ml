@@ -22,7 +22,7 @@ You can view the tutorials online or download and run locally.
 
 
 Jupyter Nbviewer:
-[![nbviewer](https://jupyter.org/assets/main-logo.svg](https://nbviewer.jupyter.org/github/taldatech/cs236756-intro-to-ml/tree/master/)
+[![nbviewer](https://jupyter.org/assets/main-logo.svg)](https://nbviewer.jupyter.org/github/taldatech/cs236756-intro-to-ml/tree/master/)
 
 
 Press on the "Open in Colab" button below to use Google Colab:
