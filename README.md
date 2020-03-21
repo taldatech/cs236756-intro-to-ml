@@ -1,8 +1,8 @@
 # cs236756-intro-to-ml
 Jupyter Notebook tutorials for the Technion's CS 236756 course "Introduction to Machine Learning"
 
-![adaline](https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_08_adaline.gif)
-![gd](https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_06_gd.gif)
+![adaline](https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_08_adaline.gif =100x)
+![gd](https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_06_gd.gif =100x)
 
 * For the old tutorials, see `spring19` branch.
 
