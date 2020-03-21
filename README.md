@@ -53,20 +53,6 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |File       | Topics Covered |
 |----------------|---------|
 |`cs236756_tutorial_01_probability_mle.ipynb\pdf`|  Probability basics, random variables, Bayes rule, histograms, correlation, parameter estimation, Maximum Likelihood Estimation (MLE)|
-|`cs236756_tutorial_02_statistics.ipynb\pdf`|  Statistics definitions, hypothesis testing steps, z-statistic, Central Limit Theorem (CLT), Area Under the Curve (AUC), error types, confusion matrix|
-|`cs236756_tutorial_03_linear_algebra.ipynb\pdf`|  Linear Algebra basics (vectors, inner/outer product spaces, norms, linear dependency, matrix operations, matrix rank, range and nullspace), least-squares solution, eigenvalues and eigenvectors, Singuar Value Decomposition (SVD)|
-|`cs236756_tutorial_04_pca_feature_selection.ipynb\pdf`|  Dimensionality Reduction, Outliers, PCA, SVD, Breast Cancer dataset, Feature Selection, Filter methods, Wrapper methods, RFE (scikit-learn)|
-|`cs236756_tutorial_05_evaluation_validation.ipynb\pdf`|  Classifier Evaluation and Validation, metrics, accuracy, precision, recall, FN/TP rate, Confusion Matrix, F1 score, K-Fold Cross-Validation, train-validation-test split, holdout method, stratification, ROC curve|
-|`cs236756_tutorial_06_optimization.ipynb\pdf`|  Optimization in ML, Gradient Descent, Batch Gradient Descent, Mini-Batch (MB) Gradient Descent, Stochastic Gradient Descent (SGD), Convexity, Uni/Multi-modal problems, Lagrangian and Largrange Multipliers, Constrained Optimization|
-|`cs236756_tutorial_07_linear_regression.ipynb\pdf`|  Classification vs. Regression, NLL (Negative Log-Likelihood), MLE connection to MSE, Residual Analysis, Basis Functions Expansion, Feature Extraction, Linear and Polynomial Regression, Bias-Variance Tradeoff, Irreducible Error, Regularization (L1 + L2), Ridge and LASSO Regression|
-|`cs236756_tutorial_08_linear_model.ipynb\pdf`|  Discriminative vs Generative Models, Linear Models, Perceptron, Least Mean Square (LMS) - Adaptive Linear Neuron (ADALINE), MLE with Bernoulli, Logistic Regression, Softmax, Maximum A Posteriori (MAP), Quadratic Discriminant Analysis (QDA), Naive Bayes, Linear Discriminant Analysis (LDA), One-vs-All Classification|
-|`cs236756_tutorial_09_expectation_maximization.ipynb\pdf`| Soft Clustering, Hard Clustering, K-Means, Expectation Maximization (EM) Algorithm, Gaussian Mixture Model (GMM), Bernoulli Mixture Model (BMM), Dataset Generation with Scikit-Learn|
-|`cs236756_tutorial_10_boosting_bagging.ipynb\pdf`| Ensemble Learning, Voting Classifiers, Hard Voting, Soft Voting, Random Forests, Bagging, Pasting, Bootstrap, Boosting, AdaBoost |
-|`cs236756_tutorial_11_svm.ipynb\pdf`| Support Vector Machine (SVM), Linear SVM, Hard/Soft SVM, The Primal Problem, The Dual Problem, The Kernel Trick, Kernel SVM, RBF Kernel, Polynomial Kernel, The Mercer Condition  |
-|`cs236756_tutorial_12_deep_learning_intro_backprop.ipynb\pdf`| Deep Learning Introduction, The XOR Problem, Multi-Layer Perceptron (MLP), Backpropagation, Activation Functions: Sigmoid, Tanh, ReLU, Forward Pass, Backward Pass, Boston Housing Dataset  |
-|`cs236756_tutorial_13_pac_vc_dimension.ipynb\pdf`| Probably Approximately Correct (PAC) Learning, Risk, Empirical Risk, Empirical Risk Minimization (ERM), Inductive Bias, VC Dimension, Shattering, Dichotomy, No Free Lunch Theorem |
-|`cs236756_tutorial_OX_decision_trees.ipynb\pdf`|  Decision Trees, The CART algorithm, Prunning, Regularization, Impurity Metrics, Entropy, Gini, Information Gain (IG), SplitInformation, Gain Ratio (GR), The Titanic Dataset, Tree Visualization with Scikit-Learn|
-|`cs236756_exam_perparation.pdf`|  Exam Preparations Guidelines, Exam Questions Repository (External Sources)|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
