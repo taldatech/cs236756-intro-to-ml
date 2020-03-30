@@ -53,6 +53,8 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |File       | Topics Covered |
 |----------------|---------|
 |`cs236756_tutorial_01_probability_mle.ipynb\pdf`|  Probability basics, random variables, Bayes rule, histograms, correlation, parameter estimation, Maximum Likelihood Estimation (MLE)|
+|`cs236756_tutorial_02_statistics.ipynb\pdf`|Statistics definitions, hypothesis testing steps, z-statistic, Central Limit Theorem (CLT), Area Under the Curve (AUC), error types, confusion matrix|
+
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
