@@ -58,6 +58,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`cs236756_tutorial_04_pca_feature_selection.ipynb\pdf`|Dimensionality Reduction, Outliers, PCA, SVD, Breast Cancer dataset, Feature Selection, Filter methods, Wrapper methods, RFE (scikit-learn)|
 |`cs236756_tutorial_05_evaluation_validation.ipynb\pdf`|Classifier Evaluation and Validation, metrics, accuracy, precision, recall, FN/TP rate, Confusion Matrix, F1 score, K-Fold Cross-Validation, train-validation-test split, holdout method, stratification, ROC curve|
 |`cs236756_tutorial_06_decision_trees.ipynb\pdf`|Decision Trees, The CART algorithm, Pruning, Regularization, Impurity Metrics, Entropy, Gini, Information Gain (IG), SplitInformation, Gain Ratio (GR), The Titanic Dataset, Tree Visualization with Scikit-Learn, Random Forest, Mutual Information (MI)|
+|`cs236756_tutorial_07_optimization.ipynb\pdf`|Optimization in ML, Gradient Descent, Batch Gradient Descent, Mini-Batch (MB) Gradient Descent, Stochastic Gradient Descent (SGD), Convexity, Uni/Multi-modal problems, Lagrangian and Largrange Multipliers, Constrained Optimization|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
