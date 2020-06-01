@@ -61,6 +61,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`cs236756_tutorial_07_optimization.ipynb\pdf`|Optimization in ML, Gradient Descent, Batch Gradient Descent, Mini-Batch (MB) Gradient Descent, Stochastic Gradient Descent (SGD), Convexity, Uni/Multi-modal problems, Lagrangian and Largrange Multipliers, Constrained Optimization|
 |`cs236756_tutorial_08_linear_regression.ipynb\pdf`|Classification vs. Regression, NLL (Negative Log-Likelihood), MLE connection to MSE, Residual Analysis, Basis Functions Expansion, Feature Extraction, Linear and Polynomial Regression, Bias-Variance Tradeoff, Irreducible Error, Regularization (L1 + L2), Ridge and LASSO Regression|
 |`cs236756_tutorial_09_linear_models.ipynb\pdf`|Discriminative vs Generative Models, Linear Models, Perceptron, Least Mean Square (LMS) - Adaptive Linear Neuron (ADALINE), MLE with Bernoulli, Logistic Regression, Softmax, Maximum A Posteriori (MAP), Quadratic Discriminant Analysis (QDA), Naive Bayes, Linear Discriminant Analysis (LDA), One-vs-All Classification|
+|`cs236756_tutorial_10_expectation_maximization.ipynb\pdf`|Soft Clustering, Hard Clustering, K-Means, Incomplete/Complete Likelihood, Expectation Maximization (EM) Algorithm, Gaussian Mixture Model (GMM), Bernoulli Mixture Model (BMM), Dataset Generation with Scikit-Learn|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
