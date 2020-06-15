@@ -63,6 +63,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`cs236756_tutorial_09_linear_models.ipynb\pdf`|Discriminative vs Generative Models, Linear Models, Perceptron, Least Mean Square (LMS) - Adaptive Linear Neuron (ADALINE), MLE with Bernoulli, Logistic Regression, Softmax, Maximum A Posteriori (MAP), Quadratic Discriminant Analysis (QDA), Naive Bayes, Linear Discriminant Analysis (LDA), One-vs-All Classification|
 |`cs236756_tutorial_10_expectation_maximization.ipynb\pdf`|Soft Clustering, Hard Clustering, K-Means, Incomplete/Complete Likelihood, Expectation Maximization (EM) Algorithm, Gaussian Mixture Model (GMM), Bernoulli Mixture Model (BMM), Dataset Generation with Scikit-Learn|
 |`cs236756_tutorial_11_boosting_bagging.ipynb\pdf`|Ensemble Learning, Voting Classifiers, Hard Voting, Soft Voting, Random Forests, Bagging, Pasting, Bootstrap, Boosting, AdaBoost|
+|`cs236756_tutorial_12_svm.ipynb\pdf`|	Support Vector Machine (SVM), Linear SVM, Hard/Soft SVM, The Primal Problem, The Dual Problem, The Kernel Trick, Kernel SVM, RBF Kernel, Polynomial Kernel, The Mercer Condition|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
