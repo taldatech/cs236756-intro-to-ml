@@ -65,6 +65,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`cs236756_tutorial_11_boosting_bagging.ipynb\pdf`|Ensemble Learning, Voting Classifiers, Hard Voting, Soft Voting, Random Forests, Bagging, Pasting, Bootstrap, Boosting, AdaBoost|
 |`cs236756_tutorial_12_svm.ipynb\pdf`|	Support Vector Machine (SVM), Linear SVM, Hard/Soft SVM, The Primal Problem, The Dual Problem, The Kernel Trick, Kernel SVM, RBF Kernel, Polynomial Kernel, The Mercer Condition|
 |`cs236756_tutorial_13_deep_learning_intro_backprop.ipynb\pdf`| Deep Learning Introduction, The XOR Problem, Multi-Layer Perceptron (MLP), Backpropagation, Activation Functions: Sigmoid, Tanh, ReLU, Forward Pass, Backward Pass, Boston Housing Dataset	|
+|`cs236756_tutorial_14_pac_vc_dimension.ipynb\pdf`| Probably Approximately Correct (PAC) Learning, Risk, Empirical Risk, Empirical Risk Minimization (ERM), Inductive Bias, VC Dimension, Shattering, Dichotomy, No Free Lunch Theorem	|
 
 ## Installation Instructions
 1. Get Anaconda with Python 3, follow the instructions according to your OS (Windows/Mac/Linux) at: https://www.anaconda.com/distribution/
