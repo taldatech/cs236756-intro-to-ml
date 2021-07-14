@@ -1,7 +1,25 @@
 # cs236756-intro-to-ml
+
+<h1 align="center">
+  <br>
+Technion CS 236756 - Introduction to Machine Learning
+  <br>
+  <img src="https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_08_adaline.gif" height="200"> <img src="https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_06_gd.gif" height="200">
+</h1>
+
+  <p align="center">
+    <a href="https://taldatech.github.io">Tal Daniel</a>
+  </p>
+
 Jupyter Notebook tutorials for the Technion's CS 236756 course "Introduction to Machine Learning"
 
-<img src="https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_08_adaline.gif" width="300"> <img src="https://github.com/taldatech/cs236756-intro-to-ml/blob/master/assets/tut_06_gd.gif" width="300">
+<h4 align="center">
+    <a href="https://colab.research.google.com/github/taldatech/cs236756-intro-to-ml"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://nbviewer.jupyter.org/github/taldatech/cs236756-intro-to-ml/tree/master/"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
+    <a href="https://mybinder.org/v2/gh/taldatech/cs236756-intro-to-ml/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
+
+</h4>
+
 
 * For the old tutorials, see `spring19` branch.
 
@@ -27,7 +45,7 @@ You can view the tutorials online or download and run locally.
 
 Jupyter Nbviewer:
 
-[![nbviewer](https://jupyter.org/assets/main-logo.svg)](https://nbviewer.jupyter.org/github/taldatech/cs236756-intro-to-ml/tree/master/)
+[![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/taldatech/cs236756-intro-to-ml/tree/master/)
 
 
 Press on the "Open in Colab" button below to use Google Colab:
